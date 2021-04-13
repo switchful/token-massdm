@@ -20,5 +20,5 @@ Edit the .JS file, add your token and the message you want to send to all users.
 
 --- 
 
-<img align="centre" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
+<img align="center" alt="starx's stats" src="https://github-readme-stats-liart-six.vercel.app/api?username=starxcpu&show_icons=true&hide_border=true" />
 <br />
